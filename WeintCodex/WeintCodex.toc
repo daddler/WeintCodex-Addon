@@ -1,0 +1,19 @@
+## Interface: 110200
+## Title: |cff9B6BFFWeint|r|cff33D65ECodex|r
+## Notes: Raid Guide & Intelligence System
+## Author: Fabian
+## Version: 0.6
+## SavedVariables: WeintCodex_SavedData
+
+data/BossData.lua
+
+core/main.lua
+core/ui.lua
+core/navigation.lua
+
+modules/bossguides.lua
+modules/raids.lua
+modules/materials.lua
+modules/calendar.lua
+modules/weakauras.lua
+modules/sync.lua
